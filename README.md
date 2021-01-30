@@ -1,2 +1,2 @@
 # designPattern
-Java设计模式案例。
+Java设计模式的学习案例。
