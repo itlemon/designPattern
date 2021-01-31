@@ -4,7 +4,7 @@ import cn.itlemon.factory.method.product.IProduct;
 import cn.itlemon.factory.method.product.ProductB;
 
 /**
- * @author jiangpingping <jiangpingping@kuaishou.com>
+ * @author itlemon
  * Created on 2021-01-30
  */
 public class ProductBFactory implements IFactory {

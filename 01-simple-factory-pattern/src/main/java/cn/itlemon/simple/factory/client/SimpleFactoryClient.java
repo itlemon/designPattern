@@ -5,7 +5,7 @@ import cn.itlemon.simple.factory.product.IProduct;
 import cn.itlemon.simple.factory.product.ProductA;
 
 /**
- * @author jiangpingping <jiangpingping@kuaishou.com>
+ * @author itlemon
  * Created on 2021-01-30
  */
 public class SimpleFactoryClient {
